@@ -3,6 +3,8 @@ A [Radarr](https://github.com/Radarr/Radarr)/[Sonarr](https://github.com/Sonarr/
 
 ## Features
 
+This fork adds support for Sonarr v2 (master branch).
+
 ### Sonarr
 
 - Search for TV Shows by name.
