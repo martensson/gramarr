@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/alcmoraes/gramarr/radarr"
-	"github.com/alcmoraes/gramarr/sonarr"
+	"github.com/martensson/gramarr/radarr"
+	"github.com/martensson/gramarr/sonarr"
 
 	tb "gopkg.in/tucnak/telebot.v2"
 )

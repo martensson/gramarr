@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/alcmoraes/gramarr/radarr"
+	"github.com/martensson/gramarr/radarr"
 
 	"path/filepath"
 

@@ -8,19 +8,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.2] - 2019-08-18
 ### Added
-- Config template to release file [@alcmoraes](https://github.com/alcmoraes).
+- Config template to release file [@martensson](https://github.com/martensson).
 
 ## [0.1.1] - 2019-08-18
 ### Added
-- More details to Readme [@alcmoraes](https://github.com/alcmoraes).
-- Changelog [@alcmoraes](https://github.com/alcmoraes).
-- Season choice [@alcmoraes](https://github.com/alcmoraes).
-- Quality Profile choice for Radarr [@alcmoraes](https://github.com/alcmoraes).
-- Quality and Language Profile choice for Sonarr [@alcmoraes](https://github.com/alcmoraes).
+- More details to Readme [@martensson](https://github.com/martensson).
+- Changelog [@martensson](https://github.com/martensson).
+- Season choice [@martensson](https://github.com/martensson).
+- Quality Profile choice for Radarr [@martensson](https://github.com/martensson).
+- Quality and Language Profile choice for Sonarr [@martensson](https://github.com/martensson).
 ### Removed
-- Gramarr executable from .gitignore [@alcmoraes](https://github.com/alcmoraes).
+- Gramarr executable from .gitignore [@martensson](https://github.com/martensson).
 
 ## [0.1.0] - 2019-08-17
 ### Added
-- Implemented sonarr [@alcmoraes](https://github.com/alcmoraes).
-- First release [@alcmoraes](https://github.com/alcmoraes).
+- Implemented sonarr [@martensson](https://github.com/martensson).
+- First release [@martensson](https://github.com/martensson).
